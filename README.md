@@ -3,19 +3,7 @@ This is app created using React native and expo.
 
 FOR DEMO VIDEO - https://drive.google.com/file/d/1L1_uN5eqPcBFaAGSyAJrj6dXrpebWqze/view
 
-Features included:
-
-1.You can click pictures from camera and save them to gallery.
-
-2.You can also pick pictures from gallery and crop,rotate,etc it.
-
-3.You can add pictures to certain category like portrait ,landcape or also can create your own category and add it.
-
-4.React native permissions for media storage and camera
-
-5.You can view the pictures in each category section and also can delete the picture.
-
-Steps for running the app:
+SETUP: 
 
 1.Download expo go app from playstore.
 
@@ -31,3 +19,19 @@ Steps for running the app:
 6.App starts.
 
 7.If any problem comes ,close current terminal and run npm start again on new terminal.
+
+
+
+Features included:
+
+1.You can click pictures from camera and save them to gallery.
+
+2.You can also pick pictures from gallery and crop,rotate,etc it.
+
+3.You can add pictures to certain category like portrait ,landcape or also can create your own category and add it.
+
+4.React native permissions for media storage and camera
+
+5.You can view the pictures in each category section and also can delete the picture.
+
+
