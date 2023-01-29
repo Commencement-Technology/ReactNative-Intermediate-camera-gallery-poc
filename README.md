@@ -5,33 +5,20 @@ FOR DEMO VIDEO - https://drive.google.com/file/d/1L1_uN5eqPcBFaAGSyAJrj6dXrpebWq
 
 SETUP: 
 
-1.Download expo go app from playstore.
-
-2.Clone the project and run cd license-plate
- 
-3.Run npm install --force
-
-4.Run npm start
-
-5.You will get one qr code on terminal after running npm start on terminal.
-  Open expo go app and scan the same qr code.
-
-6.App starts.
-
-7.If any problem comes ,close current terminal and run npm start again on new terminal.
-
+   • Download expo go app from playstore.
+   • Clone the project and run cd license-plate.
+   • Run npm install --force
+   • Run npm start
+   • You will get one qr code on terminal after running npm start on terminal. Open expo go app and scan the same qr code.
+   • App starts. If any problem comes ,close current terminal and run npm start again on new terminal.
 
 
 Features included:
 
-1.You can click pictures from camera and save them to gallery.
-
-2.You can also pick pictures from gallery and crop,rotate,etc it.
-
-3.You can add pictures to certain category like portrait ,landcape or also can create your own category and add it.
-
-4.React native permissions for media storage and camera
-
-5.You can view the pictures in each category section and also can delete the picture.
-
+   • You can click pictures from camera and save them to gallery.
+   • You can also pick pictures from gallery and crop,rotate,etc it.
+   • You can add pictures to certain category like portrait ,landcape or also can create your own category and add it.
+   • React native permissions for media storage and camera
+   • You can view the pictures in each category section and also can delete the picture.
+  
 
