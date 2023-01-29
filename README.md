@@ -1,6 +1,8 @@
 # react-native-camera-gallery-poc
 This is app created using React native and expo.
 
+FOR DEMO VIDEO - https://drive.google.com/file/d/1L1_uN5eqPcBFaAGSyAJrj6dXrpebWqze/view
+
 Features included:
 
 1.You can click pictures from camera and save them to gallery.
